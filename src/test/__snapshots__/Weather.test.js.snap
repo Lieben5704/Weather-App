@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Weather /> renders correctly 1`] = `
+<div>
+  <div>
+    <table
+      className="table table-striped table-bordered table-hover"
+    >
+      <thead>
+        <tr>
+          <th>
+            Area
+          </th>
+          <th>
+            Discription
+          </th>
+          <th>
+            Temperature
+          </th>
+          <th>
+            Humidity
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            Cape Town
+          </td>
+          <td>
+            Sunny
+          </td>
+          <td>
+            20
+          </td>
+          <td>
+            60
+            %
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;

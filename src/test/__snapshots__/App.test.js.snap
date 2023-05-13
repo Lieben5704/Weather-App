@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> renders correctly 1`] = `
+<div>
+  <div
+    className="input-field"
+  >
+    <link
+      crossOrigin="anonymous"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+      integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+      rel="stylesheet"
+    />
+    <h1>
+      L2T14 - Weather App
+    </h1>
+    <br />
+    <form
+      className=""
+    >
+      <div>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Please Enter Area"
+          type="text"
+          value=""
+        />
+      </div>
+      <div>
+        <input
+          className="form-control"
+          onChange={[Function]}
+          placeholder="Please enter language code eg. en, af, zu, nl"
+          type="text"
+          value=""
+        />
+      </div>
+      <button
+        className="btn btn-primary btn btn-primary"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        Check Weather
+      </button>
+    </form>
+  </div>
+</div>
+`;
