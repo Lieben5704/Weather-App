@@ -2,6 +2,18 @@
 
 This is a simple weather app built with React that allows you to check the weather conditions for a specific area.
 
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installing](#installing)
+- [Usage](#usage)
+- [Built With](#built-with)
+- [API Used](#api-used)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
 ## Features
 
 - Enter the name of an area to get current weather information.
